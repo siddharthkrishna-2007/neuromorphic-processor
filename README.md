@@ -116,4 +116,4 @@ This digital design is part of a broader study of neuromorphic circuits. The com
 
 2nd year ECE student, IIIT Bangalore.  
 Interested in neuromorphic computing, open-source silicon, and edge AI.  
-[[LinkedIn]](https://linkedin.com/in/your-profile) · [[arXiv paper — coming soon]]()
+[[LinkedIn]](https://www.linkedin.com/in/psiddharthkrishna/) · [[arXiv paper — coming soon]]()
